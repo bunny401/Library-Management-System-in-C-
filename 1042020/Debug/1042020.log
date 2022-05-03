@@ -1,0 +1,49 @@
+﻿  1042020.cpp
+c:\users\m. shoaib\desktop\c++ project files\1042020\1042020\1042020.cpp(87): warning C4129: 'A' : unrecognized character escape sequence
+c:\users\m. shoaib\desktop\c++ project files\1042020\1042020\1042020.cpp(90): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+          c:\program files (x86)\microsoft visual studio 10.0\vc\include\stdio.h(304) : see declaration of 'scanf'
+c:\users\m. shoaib\desktop\c++ project files\1042020\1042020\1042020.cpp(137): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+          c:\program files (x86)\microsoft visual studio 10.0\vc\include\stdio.h(304) : see declaration of 'scanf'
+c:\users\m. shoaib\desktop\c++ project files\1042020\1042020\1042020.cpp(145): warning C4996: 'getch': The POSIX name for this item is deprecated. Instead, use the ISO C++ conformant name: _getch. See online help for details.
+          c:\program files (x86)\microsoft visual studio 10.0\vc\include\conio.h(128) : see declaration of 'getch'
+c:\users\m. shoaib\desktop\c++ project files\1042020\1042020\1042020.cpp(153): warning C4996: 'getch': The POSIX name for this item is deprecated. Instead, use the ISO C++ conformant name: _getch. See online help for details.
+          c:\program files (x86)\microsoft visual studio 10.0\vc\include\conio.h(128) : see declaration of 'getch'
+c:\users\m. shoaib\desktop\c++ project files\1042020\1042020\1042020.cpp(191): warning C4101: 'x' : unreferenced local variable
+c:\users\m. shoaib\desktop\c++ project files\1042020\1042020\1042020.cpp(228): warning C4996: 'getch': The POSIX name for this item is deprecated. Instead, use the ISO C++ conformant name: _getch. See online help for details.
+          c:\program files (x86)\microsoft visual studio 10.0\vc\include\conio.h(128) : see declaration of 'getch'
+c:\users\m. shoaib\desktop\c++ project files\1042020\1042020\1042020.cpp(324): warning C4551: function call missing argument list
+c:\users\m. shoaib\desktop\c++ project files\1042020\1042020\1042020.cpp(409): warning C4129: 'A' : unrecognized character escape sequence
+c:\users\m. shoaib\desktop\c++ project files\1042020\1042020\1042020.cpp(412): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+          c:\program files (x86)\microsoft visual studio 10.0\vc\include\stdio.h(304) : see declaration of 'scanf'
+c:\users\m. shoaib\desktop\c++ project files\1042020\1042020\1042020.cpp(424): warning C4129: 'A' : unrecognized character escape sequence
+c:\users\m. shoaib\desktop\c++ project files\1042020\1042020\1042020.cpp(427): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+          c:\program files (x86)\microsoft visual studio 10.0\vc\include\stdio.h(304) : see declaration of 'scanf'
+c:\users\m. shoaib\desktop\c++ project files\1042020\1042020\1042020.cpp(439): warning C4129: 'A' : unrecognized character escape sequence
+c:\users\m. shoaib\desktop\c++ project files\1042020\1042020\1042020.cpp(442): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+          c:\program files (x86)\microsoft visual studio 10.0\vc\include\stdio.h(304) : see declaration of 'scanf'
+c:\users\m. shoaib\desktop\c++ project files\1042020\1042020\1042020.cpp(453): warning C4129: 'A' : unrecognized character escape sequence
+c:\users\m. shoaib\desktop\c++ project files\1042020\1042020\1042020.cpp(456): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+          c:\program files (x86)\microsoft visual studio 10.0\vc\include\stdio.h(304) : see declaration of 'scanf'
+c:\users\m. shoaib\desktop\c++ project files\1042020\1042020\1042020.cpp(472): warning C4996: 'getch': The POSIX name for this item is deprecated. Instead, use the ISO C++ conformant name: _getch. See online help for details.
+          c:\program files (x86)\microsoft visual studio 10.0\vc\include\conio.h(128) : see declaration of 'getch'
+c:\users\m. shoaib\desktop\c++ project files\1042020\1042020\1042020.cpp(481): warning C4996: 'getche': The POSIX name for this item is deprecated. Instead, use the ISO C++ conformant name: _getche. See online help for details.
+          c:\program files (x86)\microsoft visual studio 10.0\vc\include\conio.h(129) : see declaration of 'getche'
+c:\users\m. shoaib\desktop\c++ project files\1042020\1042020\1042020.cpp(484): warning C4101: 'x' : unreferenced local variable
+c:\users\m. shoaib\desktop\c++ project files\1042020\1042020\1042020.cpp(502): warning C4129: 'A' : unrecognized character escape sequence
+c:\users\m. shoaib\desktop\c++ project files\1042020\1042020\1042020.cpp(505): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+          c:\program files (x86)\microsoft visual studio 10.0\vc\include\stdio.h(304) : see declaration of 'scanf'
+c:\users\m. shoaib\desktop\c++ project files\1042020\1042020\1042020.cpp(530): warning C4996: 'getch': The POSIX name for this item is deprecated. Instead, use the ISO C++ conformant name: _getch. See online help for details.
+          c:\program files (x86)\microsoft visual studio 10.0\vc\include\conio.h(128) : see declaration of 'getch'
+c:\users\m. shoaib\desktop\c++ project files\1042020\1042020\1042020.cpp(533): warning C4101: 'x' : unreferenced local variable
+c:\users\m. shoaib\desktop\c++ project files\1042020\1042020\1042020.cpp(574): warning C4101: 'x' : unreferenced local variable
+c:\users\m. shoaib\desktop\c++ project files\1042020\1042020\1042020.cpp(616): warning C4101: 'x' : unreferenced local variable
+c:\users\m. shoaib\desktop\c++ project files\1042020\1042020\1042020.cpp(668): warning C4996: 'getch': The POSIX name for this item is deprecated. Instead, use the ISO C++ conformant name: _getch. See online help for details.
+          c:\program files (x86)\microsoft visual studio 10.0\vc\include\conio.h(128) : see declaration of 'getch'
+c:\users\m. shoaib\desktop\c++ project files\1042020\1042020\1042020.cpp(742): warning C4996: 'getche': The POSIX name for this item is deprecated. Instead, use the ISO C++ conformant name: _getche. See online help for details.
+          c:\program files (x86)\microsoft visual studio 10.0\vc\include\conio.h(129) : see declaration of 'getche'
+c:\users\m. shoaib\desktop\c++ project files\1042020\1042020\1042020.cpp(793): warning C4996: 'getch': The POSIX name for this item is deprecated. Instead, use the ISO C++ conformant name: _getch. See online help for details.
+          c:\program files (x86)\microsoft visual studio 10.0\vc\include\conio.h(128) : see declaration of 'getch'
+c:\users\m. shoaib\desktop\c++ project files\1042020\1042020\1042020.cpp(752): warning C4101: 'next' : unreferenced local variable
+c:\users\m. shoaib\desktop\c++ project files\1042020\1042020\1042020.cpp(857): warning C4996: 'getch': The POSIX name for this item is deprecated. Instead, use the ISO C++ conformant name: _getch. See online help for details.
+          c:\program files (x86)\microsoft visual studio 10.0\vc\include\conio.h(128) : see declaration of 'getch'
+  1042020.vcxproj -> C:\Users\M. Shoaib\Desktop\c++ project files\1042020\Debug\1042020.exe
